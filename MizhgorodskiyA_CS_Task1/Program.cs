@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace MizhgorodskiyA_CS_Task1
 {
@@ -30,6 +26,7 @@ namespace MizhgorodskiyA_CS_Task1
                     Console.WriteLine("Привет");
                     b = false;
                 }
+                Console.ReadLine();
             }
         }
     }
