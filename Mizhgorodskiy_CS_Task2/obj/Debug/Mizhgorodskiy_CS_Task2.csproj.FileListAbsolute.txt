@@ -1,0 +1,8 @@
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\bin\Debug\Mizhgorodskiy_CS_Task2.exe.config
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\bin\Debug\Mizhgorodskiy_CS_Task2.exe
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\bin\Debug\Mizhgorodskiy_CS_Task2.pdb
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\obj\Debug\Mizhgorodskiy_CS_Task2.csproj.AssemblyReference.cache
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\obj\Debug\Mizhgorodskiy_CS_Task2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\obj\Debug\Mizhgorodskiy_CS_Task2.csproj.CoreCompileInputs.cache
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\obj\Debug\Mizhgorodskiy_CS_Task2.exe
+C:\Users\Nastia\Mizhgorodskiy\MizhgorodskiyA_CS_Task1\Mizhgorodskiy_CS_Task2\obj\Debug\Mizhgorodskiy_CS_Task2.pdb
