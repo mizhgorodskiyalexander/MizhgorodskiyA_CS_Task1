@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MizhgorodskiyA_CS_Task1", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mizhgorodskiy_CS_Task2", "Mizhgorodskiy_CS_Task2\Mizhgorodskiy_CS_Task2.csproj", "{242FA02F-60E6-468B-A321-D6C63C38973A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Mizhgorodskiy_CS_Task3", "Mizhgorodskiy_CS_Task3\Mizhgorodskiy_CS_Task3.csproj", "{858031CE-AFC6-4840-8B4F-61540F4A097B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{242FA02F-60E6-468B-A321-D6C63C38973A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{242FA02F-60E6-468B-A321-D6C63C38973A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{242FA02F-60E6-468B-A321-D6C63C38973A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{858031CE-AFC6-4840-8B4F-61540F4A097B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{858031CE-AFC6-4840-8B4F-61540F4A097B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{858031CE-AFC6-4840-8B4F-61540F4A097B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{858031CE-AFC6-4840-8B4F-61540F4A097B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
